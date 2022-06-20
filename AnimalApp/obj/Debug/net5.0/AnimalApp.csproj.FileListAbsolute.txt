@@ -1,0 +1,16 @@
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.exe
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.deps.json
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.runtimeconfig.json
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.runtimeconfig.dev.json
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.dll
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\ref\AnimalApp.dll
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\bin\Debug\net5.0\AnimalApp.pdb
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.csproj.AssemblyReference.cache
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.AssemblyInfoInputs.cache
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.AssemblyInfo.cs
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.csproj.CoreCompileInputs.cache
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.dll
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\ref\AnimalApp.dll
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.pdb
+C:\Users\geremias.bezerra\source\repos\AnimalApp\AnimalApp\obj\Debug\net5.0\AnimalApp.genruntimeconfig.cache

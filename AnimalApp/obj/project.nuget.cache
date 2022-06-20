@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EgtWkMjbbRQxh0DPBhuhlQun9BM+aVGoJjkGrk7qgLFbdl9UppCyvOwVwXvHcJBICbR9ZM0IeChvOc+fSL60A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\geremias.bezerra\\source\\repos\\AnimalApp\\AnimalApp\\AnimalApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\geremias.bezerra\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
